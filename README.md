@@ -1,3 +1,4 @@
 # beginner-course
-hard(for me) tasks from codeforces and other sites
+tasks from codeforces and other sites
+hard tasks have a respective note
 just learning python
